@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>My experience at University</title>
+</head>
+<body>
+
+<h1>My experience at UET Mardan</h1>
+<h2>Campus life</h2>
+<h3>MY pictures</h3>
+
+<p>My experience at UET Mardan has been <b>amazing</b>.The environment is pleasing and good.</p>
+
+<p>The teachers are very <i>supportive</i> and explains every thing perfectltly.</p>
+
+<p><u>The campus life is for learning new thing related to your subject<u>.Students are prepared for the future challenges.<p>
+
+<p>Their are amazing <mark>seminar</mark> which brings new ideas to life.</p>
+
+<p>Their are physical as well as online classes.<br>
+This make student to be prepared for the challenges like lockdown.</p> 
+
+<p>At last it is a new and real experience which taught me alot</p>
+<img src="photo.jpg" alt="compiling screen">
+
+<small>Written by Manahil Malik</small>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
